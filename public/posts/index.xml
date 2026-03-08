@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on VortexSpace Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on VortexSpace Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 22:37:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Story of VortexSpace</title>
+      <link>http://localhost:1313/posts/the-story/</link>
+      <pubDate>Sun, 08 Mar 2026 22:37:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/the-story/</guid>
+      <description>&lt;h2 id=&#34;this-is-the-story-of-vortexspace-project&#34;&gt;This is the Story of VortexSpace Project&lt;/h2&gt;
+&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

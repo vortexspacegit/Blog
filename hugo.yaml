@@ -1,4 +1,54 @@
-baseURL: https://example.org/
+baseURL: https://blog.vortexspace.it/
 languageCode: en-us
-title: My New Hugo Project
+title: VortexSpace Blog
 theme: ["PaperMod"]
+
+paginate: 5
+enableRobotsTXT: true
+
+params:
+  env: production
+  title: "VortexSpace Blog"
+  description: "Free Hosting. Infinite Space."
+  keywords: ["space", "hosting", "blog"]
+  author: "VortexSpace"
+
+  # Default Theme Settings
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  # Show Items
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  # Hidden Things
+  ShowShareButtons: false
+  ShowWordCount: false
+
+  # Home
+  homeInfoParams:
+    Title: "Welcome to VortexSpace Blog"
+    Content: "Exploring space, technology and ideas."
+
+  # Socials
+  socialIcons:
+    - name: github
+      url: "https://github.com/vortexspacegit"
+    - name: discord
+      url: "https://discord.vortexspace.it/"
+
+# navbar
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
