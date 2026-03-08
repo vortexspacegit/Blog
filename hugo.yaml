@@ -52,3 +52,7 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+
+caches:
+  images:
+    dir: :cacheDir/images    
