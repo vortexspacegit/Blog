@@ -6,15 +6,24 @@
     <description>Recent content in Posts on VortexSpace Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 22:37:07 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Story of VortexSpace</title>
+      <title>The Story of VortexSpace Project</title>
       <link>http://localhost:1313/posts/the-story/</link>
-      <pubDate>Sun, 08 Mar 2026 22:37:07 +0100</pubDate>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-story/</guid>
-      <description>&lt;h2 id=&#34;this-is-the-story-of-vortexspace-project&#34;&gt;This is the Story of VortexSpace Project&lt;/h2&gt;
-&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hey there, developer.
+Welcome to VortexSpace&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re not anothing &amp;ldquo;Free Hosting&amp;rdquo; page full of hidden limits, forced ads and broken promises.
+We&amp;rsquo;re VortexSpace, The Italian Free Hosting Platform built for real small projects.\&lt;/p&gt;
+&lt;p&gt;Built in Italy. For everyone.&lt;/p&gt;
+&lt;h2 id=&#34;we-started-because-we-were-tired-of-ther-same-story&#34;&gt;We started because we were tired of ther same story:&lt;/h2&gt;
+&lt;p&gt;You build something cool, a Discord bot for your community, a small website. and then you hit the wall.&lt;/p&gt;
+&lt;p&gt;Paywalls.
+Ads injected into your code.
+&amp;ldquo;Free&amp;rdquo; plans that die after 30days.
+Or worse.. services that just disappear overnight.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
