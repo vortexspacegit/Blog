@@ -38,6 +38,8 @@ params:
       url: "https://github.com/vortexspacegit"
     - name: discord
       url: "https://discord.vortexspace.it/"
+    - name: website
+      url: "https://vortexspace.it/"
 
 # navbar
 menu:
