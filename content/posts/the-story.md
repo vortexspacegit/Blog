@@ -8,7 +8,7 @@ Hey there, developer.
 Welcome to VortexSpace
 
 We're not anothing "Free Hosting" page full of hidden limits, forced ads and broken promises.
-We're VortexSpace, The Italian Free Hosting Platform built for real small projects.\
+We're VortexSpace, The Italian Free Hosting Platform built for real small projects.
 
 Built in Italy. For everyone.
 
