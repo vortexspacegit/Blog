@@ -6,8 +6,15 @@
     <description>Recent content in Posts on VortexSpace Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 01:40:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Node</title>
+      <link>http://localhost:1313/posts/new-node/</link>
+      <pubDate>Sat, 28 Mar 2026 01:40:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/new-node/</guid>
+      <description></description>
+    </item>
     <item>
       <title>The Story of VortexSpace Project</title>
       <link>http://localhost:1313/posts/the-story/</link>
@@ -16,7 +23,7 @@
       <description>&lt;p&gt;Hey there, developer.
 Welcome to VortexSpace&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re not anothing &amp;ldquo;Free Hosting&amp;rdquo; page full of hidden limits, forced ads and broken promises.
-We&amp;rsquo;re VortexSpace, The Italian Free Hosting Platform built for real small projects.\&lt;/p&gt;
+We&amp;rsquo;re VortexSpace, The Italian Free Hosting Platform built for real small projects.&lt;/p&gt;
 &lt;p&gt;Built in Italy. For everyone.&lt;/p&gt;
 &lt;h2 id=&#34;we-started-because-we-were-tired-of-ther-same-story&#34;&gt;We started because we were tired of ther same story:&lt;/h2&gt;
 &lt;p&gt;You build something cool, a Discord bot for your community, a small website. and then you hit the wall.&lt;/p&gt;
