@@ -2,6 +2,7 @@
 date: "2026-03-09" # YYYY-MM-DD
 draft: false
 title: 'The Story of VortexSpace Project'
+slug: "the-story"
 ---
 
 Hey there, developer.
