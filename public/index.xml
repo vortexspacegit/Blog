@@ -6,8 +6,25 @@
     <description>Recent content on VortexSpace Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 01:40:07 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 02:15:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Server Upgrade</title>
+      <link>http://localhost:1313/posts/free-server-upgrade-256mb/</link>
+      <pubDate>Mon, 13 Apr 2026 02:15:40 +0200</pubDate>
+      <guid>http://localhost:1313/posts/free-server-upgrade-256mb/</guid>
+      <description>&lt;p&gt;We’ve just rolled out a major upgrade to our Free Server plan following the results of the community poll 🎉&lt;/p&gt;
+&lt;h2 id=&#34;what-changed&#34;&gt;What changed?&lt;/h2&gt;
+&lt;p&gt;Based on community feedback, &lt;strong&gt;Option A has been selected&lt;/strong&gt;, bringing significant improvements to free resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 RAM: &lt;strong&gt;128MB → 256MB&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;⚡ CPU: &lt;strong&gt;25% → 35%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;💾 Storage: &lt;strong&gt;768MB → 1024MB&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-the-new-system&#34;&gt;About the new system:&lt;/h2&gt;
+&lt;p&gt;Alongside the upgrade, we are introducing a &lt;strong&gt;server activity management system&lt;/strong&gt; designed to optimize resources:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Node</title>
       <link>http://localhost:1313/posts/new-node/</link>
