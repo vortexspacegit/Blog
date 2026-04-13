@@ -2,6 +2,7 @@
 date: '2026-03-28T01:40:07+01:00'
 draft: false
 title: 'New Node'
+slug: "new-node"
 ---
 
 Hey there, builders.

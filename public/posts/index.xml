@@ -10,10 +10,15 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Node</title>
-      <link>http://localhost:1313/posts/new-node/</link>
+      <link>http://localhost:1313/posts/new-node1234/</link>
       <pubDate>Sat, 28 Mar 2026 01:40:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/new-node/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/new-node1234/</guid>
+      <description>&lt;p&gt;Hey there, builders.
+Big news from the VortexSpace Host.&lt;/p&gt;
+&lt;p&gt;We told you we were building something different, and today we’re proving it. The migration is complete, and the performance is better than ever.&lt;/p&gt;
+&lt;h2 id=&#34;nl1-to-it1-were-home&#34;&gt;NL1 to IT1: We’re home.&lt;/h2&gt;
+&lt;p&gt;The migration from our old &lt;strong&gt;NL1&lt;/strong&gt; (Netherlands) node to the brand new &lt;strong&gt;IT1&lt;/strong&gt; (Italy) node is officially &lt;strong&gt;successful&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;VortexSpace is now officially running from its home base. Low latency, Italian power, and zero downtime during the switch. Italy is now on Top!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Story of VortexSpace Project</title>
