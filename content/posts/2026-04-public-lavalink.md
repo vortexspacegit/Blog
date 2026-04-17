@@ -1,7 +1,7 @@
 ---
 date: '2026-04-17T17:03:59+02:00'
 draft: false
-title: 'Free Publick Lavalink'
+title: 'Free Public Lavalink'
 ---
 
 Running a music bot on Discord shouldn't be a struggle, and it definitely shouldn't cost you a fortune.
