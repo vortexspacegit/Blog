@@ -1,6 +1,6 @@
 ---
 date: '2026-04-17T17:03:59+02:00'
-draft: true
+draft: false
 title: 'Free Publick Lavalink'
 ---
 
