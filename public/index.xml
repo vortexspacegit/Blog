@@ -6,8 +6,19 @@
     <description>Recent content on VortexSpace Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 02:15:40 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:03:59 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Publick Lavalink</title>
+      <link>http://localhost:1313/posts/2026-04-public-lavalink/</link>
+      <pubDate>Fri, 17 Apr 2026 17:03:59 +0200</pubDate>
+      <guid>http://localhost:1313/posts/2026-04-public-lavalink/</guid>
+      <description>&lt;p&gt;Running a music bot on Discord shouldn&amp;rsquo;t be a struggle, and it definitely shouldn&amp;rsquo;t cost you a fortune.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re looking for a stable, reliable, and most importantly, &lt;strong&gt;free&lt;/strong&gt; Lavalink node for your Discord bot, you&amp;rsquo;ve come to the right place.&lt;/p&gt;
+&lt;p&gt;Today, we are officially opening our public Lavalink infrastructure to the community.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem-with-free-music-hosting&#34;&gt;The problem with &amp;ldquo;Free&amp;rdquo; music hosting&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve all been there. You find a &amp;ldquo;free&amp;rdquo; Lavalink host, set up your bot, and everything works great for a week. Then, the latency spikes, the node goes offline, or the provider suddenly shuts down without warning.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Free Server Upgrade</title>
       <link>http://localhost:1313/posts/free-server-upgrade-256mb/</link>
