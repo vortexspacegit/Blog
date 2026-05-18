@@ -6,10 +6,33 @@
     <description>Recent content on VortexSpace Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 17:03:59 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:36:02 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Free Publick Lavalink</title>
+      <title>June Downtime</title>
+      <link>http://localhost:1313/posts/downtime-of-june/</link>
+      <pubDate>Mon, 18 May 2026 12:36:02 +0200</pubDate>
+      <guid>http://localhost:1313/posts/downtime-of-june/</guid>
+      <description>&lt;h2 id=&#34;announcement&#34;&gt;Announcement&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Owner Rota&lt;/strong&gt; will be offline starting &lt;strong&gt;May 18, 2026&lt;/strong&gt; for an indefinite period. We expect to be back online in &lt;strong&gt;June 2026&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;service-impact&#34;&gt;Service Impact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Creation of free servers is &lt;strong&gt;temporarily disabled&lt;/strong&gt; from May 18.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;VortexSpace&lt;/strong&gt; project will &lt;strong&gt;not be ignored&lt;/strong&gt;; our COO &lt;strong&gt;Marcel1kub&lt;/strong&gt; will handle tickets and provide support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;panel-url-update&#34;&gt;Panel URL Update&lt;/h3&gt;
+&lt;p&gt;The control panel URL has changed:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Old: https://panel.vortexspace.it
+New: https://panel.vortexspace.one
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;infrastructure-improvements&#34;&gt;Infrastructure Improvements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No downtime for existing servers.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;Lava2&lt;/strong&gt; component has been removed to improve overall stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are committed to delivering the best possible service. Thank you for using &lt;strong&gt;VortexSpace&lt;/strong&gt;. Once we are back online, we will provision all necessary servers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Free Public Lavalink</title>
       <link>http://localhost:1313/posts/2026-04-public-lavalink/</link>
       <pubDate>Fri, 17 Apr 2026 17:03:59 +0200</pubDate>
       <guid>http://localhost:1313/posts/2026-04-public-lavalink/</guid>
